@@ -41,7 +41,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-venv-
       - name: Install dependencies
-        run: uv sync --all-extras --dev
+        run: uv sync --all-extras
       - name: Build MkDocs
         run: uv run mkdocs build
       - name: Setup Pages
