@@ -8,7 +8,7 @@
 | **Spreading Factor (SF)** | 8 |
 | **Coding Rate (CR)** | 8 |
 
-## Passo-a-passo
+## Como Mudar o Preset
 
 1. Abra o MeshCore e conecte-se ao seu dispositivo
 2. Clique no ícone ⚙️ na barra superior
