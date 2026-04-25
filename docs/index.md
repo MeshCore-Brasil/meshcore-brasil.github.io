@@ -20,12 +20,6 @@ Para usar essas configurações:
 4. Verifique se os parâmetros estão conforme a tabela acima.
 5. Clique no ícone ✔ no canto superior direito da tela.
 
-## Cobertura Atual
-
-Mapa atual da cobertura estimada, usando somente repetidoras com 10 metros de altitude ou mais. Atualizado em 25 de abril de 2026.
-
-![](img/cobertura.jpg)
-
 ## Nosso Canal no Telegram
 
 Entre no nosso grupo do Telegram, **[@MeshCoreBrasil](https://t.me/meshcorebrasil)**. Ali você pode:
