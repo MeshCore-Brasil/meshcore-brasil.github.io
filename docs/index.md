@@ -124,7 +124,7 @@ Exemplos:
 | Nome | Descrição |
 |------|-----------|
 | `SOR-SAOBENTO-A1B2` | Repetidora no mosteiro São Bento de Sorocaba |
-| `SAO-PAULISTA-9D4E` | Repetidora na Paulista, São Paulo |
+| `SPP-PAULISTA-9D4E` | Repetidora na Paulista, São Paulo |
 | `SBC-VILANOVA-3C7D` | Repetidora na Vila Nova, São Paulo |
 
 
